@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="secret_title">Secret features</string>
+    <string name="secret_title">Secret Features</string>
     <string name="secret_subtitle">Privacy and extra functions</string>
     <string name="contacts_privacy_title">Contacts</string>
     <string name="groups_privacy_title">Groups</string>
