@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+/*/build/
+
+# IDE - Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+.navigation/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Captures
+captures/
+
+# External Native Build
+.externalNativeBuild/
+.cxx/
+
+# Artifacts directory (if used for temporary AI data)
+.artifacts/

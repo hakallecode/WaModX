@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="secret_title">Secret features</string>
+    <string name="secret_subtitle">Privacy and extra functions</string>
+    <string name="contacts_privacy_title">Contacts</string>
+    <string name="groups_privacy_title">Groups</string>
+    <string name="privacy_option_normal">Normal</string>
+    <string name="privacy_option_hide_ticks">Hide blue ticks</string>
+    <string name="privacy_option_show_after_reply">Show blue ticks after reply</string>
+    <string name="privacy_warning_text">Blue ticks will only appear after you reply to the message</string>
+    <string name="status_text_label">Copied text: </string>
+    <string name="text_copied">Text copied!</string>
+    <string name="error_status_null">Error: Status object is null</string>
+    <string name="error_resolve_media">Error: Could not resolve media file</string>
+    <string name="error_source_not_found">Error: Source file not found: %s</string>
+    <string name="error_no_context">Error: No context available</string>
+    <string name="error_media_directory">Error: Could not access media directory</string>
+    <string name="saved_to">Saved to: %s</string>
+    <string name="error_copy_failed">Error: Download failed - could not copy file</string>
+    <string name="github_title">GitHub</string>
+    <string name="github_subtitle">View source code and contribute</string>
+    <string name="clear_cache_title">Clear Cache</string>
+    <string name="clear_cache_subtitle">0 B</string>
+    <string name="clear_cache_dialog_title">Clearing cache…</string>
+    <string name="clear_cache_deleting">Deleting: %s</string>
+    <string name="clear_cache_complete">Cache cleared successfully</string>
+    <string name="clear_cache_error">Error clearing cache</string>
+    <string name="clear_cache_confirm_title">Clear Cache?</string>
+    <string name="clear_cache_confirm_message">This will delete %s of cached data. This action cannot be undone.</string>
+    <string name="clear_cache_confirm_yes">Clear</string>
+    <string name="clear_cache_confirm_no">Cancel</string>
+    <string name="clear_cache_nothing">Nothing to clear</string>
+    <string name="status_marked_seen">Marked as seen</string>
+    <string name="freeze_lastseen_title">Freeze last seen</string>
+    <string name="freeze_lastseen_summary">Keep your last seen frozen for others</string>
+    <string name="hide_composing_title">Hide typing and recording audio</string>
+    <string name="hide_composing_summary">Hides the \"typing…\" and \"recording audio…\" status</string>
+    <string name="anti_status_view_title">Anti status view</string>
+    <string name="anti_status_view_summary">View statuses without marking them as seen</string>
+</resources>
